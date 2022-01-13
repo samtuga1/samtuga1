@@ -8,3 +8,4 @@
 - 📫 How to reach me: +233 555 0933 97
 - 😄 Pronouns: He
 - ⚡ Fun fact: I don't have a girlfriend lol😂
+- 💻 Check out my porfolio webpage here https://samtuga1.github.io/samtugaportolio/
