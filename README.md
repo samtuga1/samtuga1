@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🏫 I'm a computer science student at the university of Ghana
 - 🔭 I’m currently working on an app for Big company in Ghana which I cannot disclose😁
 - 🌱 I’m currently learning python🐍
 - 👯 I’m looking to collaborate on any project you have in mind
