@@ -23,7 +23,7 @@
 <!-- <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp; -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android-studio/android-studio-original.svg" alt="android studio" width="30" >&nbsp;&nbsp;
+<img src="https://img.utdstc.com/icon/a72/4fd/a724fdd31aacfd851b13275a3b315cdec444704e2b0154d402e7df1e3eb7f0c1:200" alt="android studio" width="30" >&nbsp;&nbsp;
 <!-- <img src="./images/SC-logo.jpg" alt="Styled Components" width="30" >&nbsp;&nbsp;  -->
 <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="30" >&nbsp;&nbsp;
 <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="30"/>
@@ -37,8 +37,8 @@
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=samtuga1&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samtuga1&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samtuga1&theme=github_dark)
-[![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=samtuga1&show_icons=true&theme=github_dark)](https://github.com/samtuga1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtuga1&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
+[![Samuel Twumasi's stats](https://github-readme-stats.vercel.app/api?username=samtuga1&show_icons=true&theme=github_dark)](https://github.com/samtuga1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtuga1&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/samtuga1)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samtuga1&theme=dracula)  
 
 <!-- éxplore Showcase -->
