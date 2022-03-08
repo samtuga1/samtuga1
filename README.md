@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on any project you have in mind
 - 🤔 I’m looking for help with all the languages because I'm not perfect
 - 💬 Ask me about tech stuffs
-- 📫 How to reach me: +233 555 0933 97
-- ⚡ Fun fact: I don't have a girlfriend lol😂
 - 💻 Check out my porfolio webpage here https://samtuga1.github.io/samtugaportfolio/
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
 - 📫 How to reach me: samueltwumasi1290@gmail.com or by phone as +233 (0) 555 - 093 - 397 and all socail platfroms as @twusami
@@ -25,7 +23,7 @@
 <!-- <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp; -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp;  -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android-studio/android-studio-original.svg" alt="android studio" width="30" >&nbsp;&nbsp;
 <!-- <img src="./images/SC-logo.jpg" alt="Styled Components" width="30" >&nbsp;&nbsp;  -->
 <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="30" >&nbsp;&nbsp;
 <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="30"/>
