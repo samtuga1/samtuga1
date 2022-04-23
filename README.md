@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any project you have in mind
 - 🤔 I’m looking for help with all the languages because I'm not perfect
 - 💬 Ask me about tech stuffs
-- 💻 Check out my porfolio webpage here https://samtuga1.github.io/samtugaportfolio/
+- 💻 Check out my porfolio webpage here https://samtuga1.github.io/portfolio/
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
 - 📫 How to reach me: samueltwumasi1290@gmail.com or by phone as +233 (0) 555 - 093 - 397 and all socail platfroms as @twusami
 
