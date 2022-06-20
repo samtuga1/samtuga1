@@ -38,8 +38,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samtuga1&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samtuga1&theme=github_dark)
 [![Samuel Twumasi's stats](https://github-readme-stats.vercel.app/api?username=samtuga1&show_icons=true&theme=github_dark)](https://github.com/samtuga1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtuga1&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/samtuga1)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samtuga1&theme=dracula)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtuga1&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=false)](https://github.com/samtuga1)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samtuga1&theme=dracula)
 
 <!-- éxplore Showcase -->
 
