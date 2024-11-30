@@ -7,7 +7,6 @@
 - 🔭 I don't mind using all my time to code
 - 🌱 I’m currently contributing to [Pharaoh](https://github.com/Pharaoh-Framework/pharaoh)
 - 💬 Ask me about tech stuffs
-- 💻 Check out my porfolio webpage here https://samtuga1.github.io/portfolio/
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilarating..
 - 📫 How to reach me: samueltwumasi1290@gmail.com or by phone as +233 (0) 555 - 093 - 397 and all social platfroms as @twusami
 
