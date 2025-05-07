@@ -1,4 +1,4 @@
-### 👋 Samuel Twumasi here!
+### [👋 Samuel Twumasi here!](https://portfolio-v1-master.vercel.app/)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samtuga1&label=Profile%20views&color=e91e63&style=flat" alt="samtuga1" /> </p>
 <h2>🏆My Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=samtuga1&column=8&theme=gruvbox&no-frame=false"/>
